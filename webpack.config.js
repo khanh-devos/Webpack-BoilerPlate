@@ -6,7 +6,7 @@ module.exports = {
   output: {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
-    clean: true
+    clean: true,
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -16,7 +16,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.css$/i,   //or .scss
+        test: /\.css$/i,
         use: ['style-loader', 'css-loader', 'sass-loader'],
       },
       {
@@ -27,6 +27,6 @@ module.exports = {
   },
   devServer: {
     static: './dist',
-    port: 3000
-  }
+    port: 3000,
+  },
 };
