@@ -55,12 +55,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
+<!-- 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://khanh-devos.github.io/awesome-books/)
+- [Live Demo Link](https://github.com/khanh-devos/Webpack-BoilerPlate)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -68,7 +68,7 @@
 
 - Open your Terminal
 - Navigate to the desired directory to which you want to clone the repository to
-- [Copy & Paste] git clone https://github.com/khanh-devos/awesome-books.git
+- [Copy & Paste] git clone https://github.com/khanh-devos/Webpack-BoilerPlate
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/khanh-devos/awesome-books.git
+- git clone https://github.com/khanh-devos/Webpack-BoilerPlate
 
 ### Install
 
@@ -119,15 +119,6 @@ You can deploy any service you want.
 - GitHub: [khanh-devos](https://github.com/khanh-devos)
 - Twitter: [@khanhror](https://twitter.com/home?lang=en)
 - LinkedIn: [Khanh RoR](https://www.linkedin.com/in/khanh-than-trong-3b4344246/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Styling**
-- [ ] **Animation**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
